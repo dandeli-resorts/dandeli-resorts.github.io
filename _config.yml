@@ -4,7 +4,7 @@ baseurl: /
 # Site settings
 title: Dandeli Adventures
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "The opportunity to get up-close to nature is possible here and nowhere else, thick evergreen forests, rivers, gushing waterfalls, chirping birds, greenery everywhere make your heart fill with joy."
 
 
 # Team names, titles and social links
@@ -51,8 +51,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Dandeli, KA 581325
 
 # Build settings
 markdown: kramdown
