@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "https://getsimpleform.com/messages?form_api_token=de4f1626004686378e5035fd0744f3a3",
                 type: "POST",
                 data: {
                     name: name,
