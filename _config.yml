@@ -1,4 +1,6 @@
 url: https://dandeli-resorts.github.io
+plugins:
+  - jekyll-sitemap
 baseurl: /
 
 # Site settings
