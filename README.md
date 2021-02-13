@@ -1,30 +1,6 @@
-Agency Jekyll theme
+Dandeli Nature Visit
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+The repository hosts pages for [Dandeli Nature Visit ](https://dandelinaturevisit.in) website.
 
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+Powered by : [Agency Jekyll Theme](https://y7kim.github.io/agency-jekyll-theme), [Jekyll](https://jekyllrb.com), [GitHub Pages](https://pages.github.com), 
