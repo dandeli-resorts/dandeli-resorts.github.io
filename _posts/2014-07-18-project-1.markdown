@@ -1,16 +1,8 @@
 ---
 title: Stay Packages
-subtitle: Stay Packages
-layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
 thumbnail: accomodation-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description:  Our resorts and home stays are perfect blend of Quality and value for money. These packages are made keeping in mind needs and requirements of customers.
+description:  Our resorts and home stays are perfect blend of quality and value for money. These packages are made keeping in mind requirements of customers. We also provide transportation to all activities and sight seeing spots.
 images: img/services/accomodation
 
 ---

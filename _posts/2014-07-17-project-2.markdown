@@ -1,15 +1,7 @@
 ---
 title: Activities
-subtitle: Activities
-layout: default
 modal-id: 2
-date: 2014-07-18
-img: dreams.png
 thumbnail: activities-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web DevelopmentD
 description: Dandeli is known for its water activities like White water Rafting, Zipline, River crossing, Kayaking, Zorbing, Jaccuzi bath, Trekking.
 images: img/services/activities
 
