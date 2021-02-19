@@ -1,6 +1,6 @@
 ---
-title: Accomodation
-subtitle: Accomodation
+title: Stay Packages
+subtitle: Stay Packages
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description:  Our resorts and home stays are perfect blend of Quality and value for money. These packages are made keeping in mind needs and requirements of customers.
 images: img/services/accomodation
 
 ---
